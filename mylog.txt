@@ -1,0 +1,5 @@
+* Checking the branch
+*   Merge https://github.com/RADM/GitMergePart1
+|\  
+| * Initial commit
+* Now with java file!
